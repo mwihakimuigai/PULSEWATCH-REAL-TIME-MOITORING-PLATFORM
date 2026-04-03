@@ -431,4 +431,4 @@ PulseWatch demonstrates practical understanding of:
 
 ## License
 
-Use the license of your choice for the repository, for example MIT.
+ MIT.
